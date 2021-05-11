@@ -1,6 +1,6 @@
 /***************************************************************************
 * N.Kozak // Lviv'2020 // ACM // OpenCV faces detection use example by C++ *
-*    file: acmiwforhw22.cpp                                                *
+*    file: acmhw24_1.cpp                                                   *
 ****************************************************************************/
 #include <iostream>
 #include <opencv2/opencv.hpp>
